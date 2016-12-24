@@ -1,0 +1,19 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "A very simple node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aperini/nodejs-hello-wolrd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aperini/nodejs-hello-wolrd/issues"
+  },
+  "homepage": "https://github.com/aperini/nodejs-hello-wolrd#readme"
+}
